@@ -9,6 +9,8 @@ list of public projects is short.
 
 - **[Leeway](https://github.com/nightwill/Leeway)** — how much of your Claude Code and
   Codex limits you've used, right in the menu bar.
+- **[Cupbrew](https://github.com/nightwill/Cupbrew)** — a simple Mac app for Homebrew,
+  inspired by Cakebrew.
 
 **How I work:** I write code myself and with Claude. Either way, I read every line and
 answer for it.
